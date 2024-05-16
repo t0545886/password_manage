@@ -1,0 +1,9 @@
+{
+    "name": "com.your_company.your_application",
+    "description": "Native Messaging Host",
+    "path": "C:\\Users\\homepc\\Desktop\\password_manage\\password_manage\\extension\\run_node_server.bat",
+    "type": "stdio",
+    "allowed_origins": [
+        "chrome-extension://dofgohggcnnbkdndjlllkhodohabaoee/"
+    ]
+}
